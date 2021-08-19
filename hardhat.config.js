@@ -30,7 +30,7 @@ module.exports = {
     enabled: false
   },
   paths: {
-    artifacts: "./artifactsBuidler",
+    artifacts: "./artifactsBuilder",
     tests: "./test",
   },
   networks: {
